@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "IRANSansX";
+    src: url(../assets/Fonts/IRANSansXFaNum-Bold.woff) format(woff);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "IRANSansX";
+    src: url(../assets/Fonts/IRANSansXFaNum-Regular.woff) format(woff);
+    font-weight: 400;
+}
+
+body{
+    font-family:"IRANSansX";
+}
